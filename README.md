@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fd428d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Beatriz+Vieira;I'm+from+Brazil;I+am+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+I'm a computer science student at Universidade Federal do Ceará
 - Currently working on a web development to Olimpíada Cearense de Informática
 - Learning mobile development
 
@@ -18,13 +18,13 @@
     alt="top langs" 
     align="center" 
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biavieiras&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biavieiras&layout=compact&hide_border=true&title_color=fd428d&text_color=00bfbf&bg_color=0d1117"
     />
   <img 
     alt="my stats"
     align="center" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=biavieiras&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=biavieiras&show_icons=true&count_private=true&hide_border=true&title_color=fd428d&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
     />
 </div>
   
